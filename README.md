@@ -2,8 +2,6 @@
 
 一個使用 Node.js + Express 打造的餐廳美食網站，可依照餐廳名稱與類別進行搜尋，並進一步點開詳細資料。
 
-[Demo Website](https://yhbdid.github.io/Restaurant-List/)
-
 ## Features - 產品功能
 
 1. 使用者可以點擊任一餐廳，查看更多餐廳資訊，如地址、電話與簡介
@@ -20,7 +18,7 @@
 1. 打開你的 terminal，Clone 此專案至本機電腦
 
 ```
-git clone https://github.com/yhbdid/Restaurant-List.git
+git clone (https://github.com/yhbdid/Restaurant-List.git)
 ```
 
 2. 開啟終端機(Terminal)，進入存放此專案的資料夾

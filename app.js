@@ -45,7 +45,6 @@ app.get("/search", (req, res) => {
     ) {
       return result;
     } else {
-      console.log("There is no match name or category of restaurants.");
       return;
     }
   });
